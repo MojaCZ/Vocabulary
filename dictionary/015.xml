@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<vocabulary>
+  <name>L2</name>
+  <languages>
+    <language1>CZ</language1>
+    <language2>NJ</language2>
+  </languages>
+  <words>
+    <word><L1>velký</L1><L2>groß</L2></word>
+  	<word><L1>rok</L1><L2>s Jahr</L2></word>
+  	<word><L1>starý staře</L1><L2>alt</L2></word>
+  	<word><L1>práce</L1><L2>s Arbeit</L2></word>
+  	<word><L1>zajímavý zajímavě</L1><L2>interessant</L2></word>
+  	<word><L1>často</L1><L2>oft</L2></word>
+  	<word><L1>poždě pozdní</L1><L2>spät</L2></word>
+  	<word><L1>dům</L1><L2>s Haus</L2></word>
+  	<word><L1>rád</L1><L2>gern</L2></word>
+  	<word><L1>mnoho</L1><L2>viel</L2></word>
+  	<word><L1>povolání zaměstnání</L1><L2>r Beruf</L2></word>
+  	<word><L1>těžký těžce</L1><L2>schwer</L2></word>
+  	<word><L1>potom pak</L1><L2>dann</L2></word>
+  	<word><L1>pilný pilně</L1><L2>fleißig</L2></word>
+  	<word><L1>vždy stále</L1><L2>immer</L2></word>
+  	<word><L1>všechno</L1><L2>alles</L2></word>
+  	<word><L1>šít</L1><L2>nähen</L2></word>
+  	<word><L1>už již</L1><L2>schon</L2></word>
+  	<word><L1>ženatý vdaná</L1><L2>verheiratet</L2></word>
+  	<word><L1>teď nyní</L1><L2>jetzt</L2></word>
+  	<word><L1>brzy</L1><L2>bald</L2></word>
+  	<word><L1>teprve</L1><L2>erst</L2></word>
+  	<word><L1>svobodný</L1><L2>ledig</L2></word>
+  	<word><L1>trochu</L1><L2>ein bisschen</L2></word>
+  	<word><L1>příliš</L1><L2>zu</L2></word>
+  	<word><L1>tlustý tlustě</L1><L2>dick</L2></word>
+  	<word><L1>sport</L1><L2>r Sport</L2></word>
+  	<word><L1>docela celý</L1><L2>ganz</L2></word>
+  	<word><L1>milý mile</L1><L2>nett</L2></word>
+  	<word><L1>někdy občas</L1><L2>manchmal</L2></word>
+  	<word><L1>nudný nudně</L1><L2>langweilig</L2></word>
+  	<word><L1>sice</L1><L2>zwar</L2></word>
+  	<word><L1>lehký lehce</L1><L2>leicht</L2></word>
+  	<word><L1>líný líně</L1><L2>faul</L2></word>
+  	<word><L1>tedy tak</L1><L2>also</L2></word>
+  	<word><L1>okamžik</L1><L2>r Augenblick</L2></word>
+  	<word><L1>malý</L1><L2>klein</L2></word>
+  	<word><L1>štíhlý</L1><L2>schlank</L2></word>
+  	<word><L1>totiž</L1><L2>nämlich</L2></word>
+  	<word><L1>čas doba</L1><L2>e Zeit</L2></word>
+  	<word><L1>mladý mladě</L1><L2>jung</L2></word>
+  </words>
+</vocabulary>

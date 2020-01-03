@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<vocabulary>
+  <name>L1</name>
+  <languages>
+    <language1>CZ</language1>
+    <language2>NJ</language2>
+  </languages>
+  <words>
+    <word><L1>ale</L1><L2>aber</L2></word>
+  	<word><L1>zvědavý zvědavě</L1><L2>neugierig</L2></word>
+  	<word><L1>jak jako jaký</L1><L2>wie</L2></word>
+  	<word><L1>a</L1><L2>und</L2></word>
+  	<word><L1>odkud</L1><L2>woher</L2></word>
+  	<word><L1>z</L1><L2>aus</L2></word>
+  	<word><L1>mě mne</L1><L2>mich</L2></word>
+  	<word><L1>ne nikoli</L1><L2>nein</L2></word>
+  	<word><L1>kde</L1><L2>wo</L2></word>
+  	<word><L1>daleko</L1><L2>weit</L2></word>
+  	<word><L1>od z o</L1><L2>von</L2></word>
+  	<word><L1>ano</L1><L2>ja</L2></word>
+  	<word><L1>dost značný značně</L1><L2>ziemlich</L2></word>
+  	<word><L1>kdo</L1><L2>wer</L2></word>
+  	<word><L1>tam</L1><L2>dort</L2></word>
+  	<word><L1>přece</L1><L2>doch</L2></word>
+  	<word><L1>dobrý dobře</L1><L2>gut</L2></word>
+  	<word><L1>co</L1><L2>was</L2></word>
+  	<word><L1>dělat</L1><L2>machen</L2></word>
+  	<word><L1>zde tady</L1><L2>hier</L2></word>
+  	<word><L1>také</L1><L2>auch</L2></word>
+  	<word><L1>tě tebe</L1><L2>dich</L2></word>
+  	<word><L1>přirozený přirozeně</L1><L2>natürlich</L2></word>
+  	<word><L1>ještě</L1><L2>noch</L2></word>
+  	<word><L1>vlastně</L1><L2>eigentlich</L2></word>
+  	<word><L1>historie</L1><L2>e Geschichte</L2></word>
+  	<word><L1>škola</L1><L2>e Schule</L2></word>
+  	<word><L1>jméno</L1><L2>r Name</L2></word>
+  	<word><L1>v do za</L1><L2>in</L2></word>
+  	<word><L1>můj má mé</L1><L2>mein meine mein</L2></word>
+  	<word><L1>město</L1><L2>e Stadt</L2></word>
+  	<word><L1>velmi</L1><L2>sehr</L2></word>
+  	<word><L1>pěkný pěkně</L1><L2>schön</L2></word>
+  </words>
+</vocabulary>

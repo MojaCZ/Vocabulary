@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<vocabulary>
+  <name>WERDEN</name>
+  <languages>
+    <language1>CZ</language1>
+    <language2>NJ</language2>
+  </languages>
+  <words>
+    <word><L1>stát se</L1><L2>werden</L2></word>
+  	<word><L1>stávám se</L1><L2>ich werde</L2></word>
+  	<word><L1>stáváš se</L1><L2>du wirst</L2></word>
+  	<word><L1>on se stává</L1><L2>er wird</L2></word>
+  	<word><L1>ona se stává</L1><L2>sie wird</L2></word>
+  	<word><L1>ono se stane</L1><L2>es wird</L2></word>
+  	<word><L1>staneme se</L1><L2>wir werden</L2></word>
+  	<word><L1>stanete se</L1><L2>ihr werdet</L2></word>
+  	<word><L1>Vy se stanete</L1><L2>Sie werden</L2></word>
+  </words>
+</vocabulary>

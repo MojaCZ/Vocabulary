@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<vocabulary>
+  <name>DIE MENSCHEN</name>
+  <languages>
+    <language1>CZ</language1>
+    <language2>NJ</language2>
+  </languages>
+  <words>
+    <word><L1>lidé</L1><L2>die Menschen</L2></word>
+    <word><L1>paní žena</L1><L2>e Frau</L2></word>
+  	<word><L1>přítel</L1><L2>r Freund</L2></word>
+  	<word><L1>dívka děvče</L1><L2>s Mädchen</L2></word>
+  	<word><L1>rodina</L1><L2>e Familie</L2></word>
+  	<word><L1>otec</L1><L2>r Vater</L2></word>
+  	<word><L1>matka</L1><L2>e Mutter</L2></word>
+  	<word><L1>prodavačka</L1><L2>e Verkäuferin</L2></word>
+  	<word><L1>sourozenci</L1><L2>die Geschwister</L2></word>
+  	<word><L1>bratr</L1><L2>r Bruder</L2></word>
+  	<word><L1>sestra</L1><L2>e Schwester</L2></word>
+  	<word><L1>dítě</L1><L2>s Kind</L2></word>
+  	<word><L1>teta</L1><L2>e Tante</L2></word>
+  	<word><L1>strýc strýček</L1><L2>r Onkel</L2></word>
+  	<word><L1>žák</L1><L2>r Schüler</L2></word>
+  	<word><L1>přítelkyně kamarádka</L1><L2>e Freundin</L2></word>
+  	<word><L1>syn</L1><L2>r Sohn</L2></word>
+  	<word><L1>děda</L1><L2>r Opa</L2></word>
+  	<word><L1>rodiče</L1><L2>die Eltern</L2></word>
+  	<word><L1>dcera</L1><L2>e Tochter</L2></word>
+  	<word><L1>babička</L1><L2>e Oma</L2></word>
+  </words>
+</vocabulary>

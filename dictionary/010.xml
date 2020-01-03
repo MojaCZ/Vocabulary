@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<vocabulary>
+  <name>TEST</name>
+  <languages>
+    <language1>CZ</language1>
+    <language2>NJ</language2>
+  </languages>
+  <words>
+    <word><L1>nudný nudně</L1><L2>langweilig</L2></word>
+  	<word><L1>učit se</L1><L2>lernen</L2></word>
+  	<word><L1>sice</L1><L2>zwar</L2></word>
+  	<word><L1>lehký lehce</L1><L2>leicht</L2></word>
+  	<word><L1>líný líně</L1><L2>faul</L2></word>
+  	<word><L1>tedy tak</L1><L2>also</L2></word>
+  </words>
+</vocabulary>

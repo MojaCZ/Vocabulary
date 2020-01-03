@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<vocabulary>
+  <name>slovesa</name>
+  <languages>
+    <language1>CZ</language1>
+    <language2>NJ</language2>
+  </languages>
+  <words>
+    <word><L1>představit</L1><L2>vorstellen</L2></word>
+    <word><L1>pracovat</L1><L2>arbeiten</L2></word>
+    <word><L1>stihnout</L1><L2>schaffen</L2></word>
+    <word><L1>plavat</L1><L2>schwimmen</L2></word>
+    <word><L1>dostat</L1><L2>bekommen</L2></word>
+    <word><L1>stát se</L1><L2>werden</L2></word>
+    <word><L1>jmenovat se</L1><L2>heißen</L2></word>
+    <word><L1>prosit</L1><L2>bitten</L2></word>
+    <word><L1>přijít</L1><L2>kommen</L2></word>
+    <word><L1>těšit</L1><L2>freuen</L2></word>
+    <word><L1>ležet</L1><L2>liegen</L2></word>
+    <word><L1>jít</L1><L2>gehen</L2></word>
+    <word><L1>děkovat</L1><L2>danken</L2></word>
+    <word><L1>dělat</L1><L2>machen</L2></word>
+    <word><L1>jet</L1><L2>fahren</L2></word>
+    <word><L1>doprovodit</L1><L2>begleiten</L2></word>
+    <word><L1>studovat</L1><L2>studieren</L2></word>
+    <word><L1>navštívit</L1><L2>besuchen</L2></word>
+    <word><L1>bydlet</L1><L2>wohnen</L2></word>
+    <word><L1>říci</L1><L2>sagen</L2></word>
+    <word><L1>znát</L1><L2>kennen</L2></word>
+  </words>
+</vocabulary>

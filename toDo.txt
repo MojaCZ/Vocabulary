@@ -1,0 +1,19 @@
+THIS FILE IS TO MAKE SURE I DON'T FORGER WHERE I WAS AND WHAT I WANTED TO DO
+
+BROWSER:
+  1) create form which will ask user for file information
+  2) parse XML with new file and send it back to server
+
+SERVER:
+  1) find smallest available filenumber
+  0) get XML, read it and create new file containing information with this new vocab..
+  2) send this filenumber to user
+
+BROWSER:
+  1) read header with new filenumber
+  2) Show user possibility to add words into vocabulary
+
+
+!!!! in JS for each block (available words, game windo, done words) create it's own class
+the objects will be called and there will be added or removed things from divs
+objects will be passed in constructors and will be CHECK IF OBJECT IS FROM CORRECT CLASS

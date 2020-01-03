@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<vocabulary>
+  <name>L5</name>
+  <languages>
+    <language1>CZ</language1>
+    <language2>NJ</language2>
+  </languages>
+  <words>
+    <word><L1>tento tato toto</L1><L2>dieser diese dieses</L2></word>
+  	<word><L1>volný</L1><L2>frei</L2></word>
+  	<word><L1>host</L1><L2>r Gast</L2></word>
+  	<word><L1>obsazený</L1><L2>besetzt</L2></word>
+  	<word><L1>stůl</L1><L2>r Tisch</L2></word>
+  	<word><L1>vedle</L1><L2>nebenan</L2></word>
+  	<word><L1>restaurace</L1><L2>e Gaststätte</L2></word>
+  	<word><L1>útulný</L1><L2>gemütlich</L2></word>
+  	<word><L1>sem</L1><L2>hierher</L2></word>
+  	<word><L1>cena</L1><L2>r Preis</L2></word>
+  	<word><L1>peněženka</L1><L2>s Portmonee</L2></word>
+  	<word><L1>vysoký</L1><L2>hoch</L2></word>
+  	<word><L1>jiný</L1><L2>andere</L2></word>
+  	<word><L1>narozeniny</L1><L2>r Geburtstag</L2></word>
+  	<word><L1>šetřit</L1><L2>sparen</L2></word>
+  	<word><L1>rád</L1><L2>froh</L2></word>
+  	<word><L1>že</L1><L2>dass</L2></word>
+  	<word><L1>ostatně</L1><L2>übrigens</L2></word>
+  	<word><L1>vrchní</L1><L2>r Ober</L2></word>
+  	<word><L1>chtěl bych</L1><L2>ich möchte</L2></word>
+  	<word><L1>jíst</L1><L2>essen</L2></word>
+  	<word><L1>jídlo</L1><L2>e Speise</L2></word>
+  	<word><L1>doporučit</L1><L2>empfehlen</L2></word>
+  	<word><L1>červený</L1><L2>rot</L2></word>
+  	<word><L1>předkrm</L1><L2>e Vorspeise</L2></word>
+  	<word><L1>sklenice</L1><L2>s Glas</L2></word>
+  	<word><L1>hlavní</L1><L2>Haupt</L2></word>
+  	<word><L1>jídlo pokrm</L1><L2>s Gericht</L2></word>
+  	<word><L1>vybírat</L1><L2>wählen</L2></word>
+  	<word><L1>polévka</L1><L2>e Suppe</L2></word>
+  	<word><L1>ryba</L1><L2>r Fisch</L2></word>
+  	<word><L1>grilovaný</L1><L2>gegrillt</L2></word>
+  	<word><L1>pstruh</L1><L2>e Forelle</L2></word>
+  	<word><L1>rýže</L1><L2>r Reis</L2></word>
+  	<word><L1>maso</L1><L2>s Fleisch</L2></word>
+  	<word><L1>hovězí pečeně</L1><L2>r Rinderbraten</L2></word>
+  	<word><L1>nudle</L1><L2>e Nudel</L2></word>
+  	<word><L1>hrášek</L1><L2>e Erbse</L2></word>
+  	<word><L1>vepřová pečeně</L1><L2>r Schweinebraten</L2></word>
+  	<word><L1>knedlík</L1><L2>r Knödel</L2></word>
+  	<word><L1>zelí</L1><L2>s Kraut</L2></word>
+  	<word><L1>pečené kuře</L1><L2>s Brathähnchen</L2></word>
+  	<word><L1>talíř</L1><L2>r Teller</L2></word>
+  	<word><L1>míchaný</L1><L2>gemischt</L2></word>
+  	<word><L1>další</L1><L2>weiter</L2></word>
+  	<word><L1>tak jako tak</L1><L2>sowieso</L2></word>
+  	<word><L1>oblíbený</L1><L2>Lieblings</L2></word>
+  	<word><L1>řízek</L1><L2>s Schnitzel</L2></word>
+  	<word><L1>brambor</L1><L2>e Kartoffel</L2></word>
+  	<word><L1>pít</L1><L2>trinken</L2></word>
+  	<word><L1>suchý</L1><L2>trocken</L2></word>
+  	<word><L1>víno</L1><L2>r Wein</L2></word>
+  	<word><L1>bílý</L1><L2>weiß</L2></word>
+  	<word><L1>pivo</L1><L2>s Bier</L2></word>
+  	<word><L1>obvyklý</L1><L2>gewöhnlich</L2></word>
+  	<word><L1>objednávat</L1><L2>bestellen</L2></word>
+  	<word><L1>sladký</L1><L2>süß</L2></word>
+  	<word><L1>slavit</L1><L2>feiern</L2></word>
+  	<word><L1>ještě jednou</L1><L2>nochmals</L2></word>
+  	<word><L1>zůstat</L1><L2>bleiben</L2></word>
+  	<word><L1>zdravý</L1><L2>gesund</L2></word>
+  	<word><L1>přání</L1><L2>r Wunsch</L2></word>
+  	<word><L1>platit</L1><L2>zahlen</L2></word>
+  	<word><L1>účet</L1><L2>e Rechnung</L2></word>
+  	<word><L1>peníze</L1><L2>s Geld</L2></word>
+  	<word><L1>zítra</L1><L2>morgen</L2></word>
+  	<word><L1>studený</L1><L2>kalt</L2></word>
+  	<word><L1>doplnit</L1><L2>ergänzen</L2></word>
+  </words>
+</vocabulary>

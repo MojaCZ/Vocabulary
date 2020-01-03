@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<vocabulary>
+  <name>slovesa</name>
+  <languages>
+    <language1>CZ</language1>
+    <language2>NJ</language2>
+  </languages>
+  <words>
+    <word><L1>představit</L1><L2>vorstellen</L2></word>
+    <word><L1>pracovat</L1><L2>arbeiten</L2></word>
+    <word><L1>stihnout</L1><L2>schaffen</L2></word>
+    <word><L1>plavat</L1><L2>schwimmen</L2></word>
+    <word><L1>dostat</L1><L2>bekommen</L2></word>
+    <word><L1>stát se</L1><L2>werden</L2></word>
+    <word><L1>chodit pěší</L1><L2>wandern</L2></word>
+  	<word><L1>kutit</L1><L2>basteln</L2></word>
+  	<word><L1>činit dělat</L1><L2>tun</L2></word>
+    <word><L1>jmenovat se</L1><L2>heißen</L2></word>
+    <word><L1>hrát</L1><L2>spielen</L2></word>
+    <word><L1>prosit</L1><L2>bitten</L2></word>
+    <word><L1>přijít</L1><L2>kommen</L2></word>
+    <word><L1>těšit</L1><L2>freuen</L2></word>
+    <word><L1>ležet</L1><L2>liegen</L2></word>
+    <word><L1>jít</L1><L2>gehen</L2></word>
+    <word><L1>děkovat</L1><L2>danken</L2></word>
+    <word><L1>dělat</L1><L2>machen</L2></word>
+    <word><L1>jet</L1><L2>fahren</L2></word>
+    <word><L1>doprovodit</L1><L2>begleiten</L2></word>
+    <word><L1>studovat</L1><L2>studieren</L2></word>
+    <word><L1>navštívit</L1><L2>besuchen</L2></word>
+    <word><L1>bydlet</L1><L2>wohnen</L2></word>
+    <word><L1>říci</L1><L2>sagen</L2></word>
+    <word><L1>znát</L1><L2>kennen</L2></word>
+  	<word><L1>učit se</L1><L2>lernen</L2></word>
+    <word><L1>najít shledávat</L1><L2>finden</L2></word>
+  	<word><L1>ženit se vdávat se</L1><L2>heiraten</L2></word>
+    <word><L1>domlívat se věřit</L1><L2>glauben</L2></word>
+    <word><L1>mínit myslet</L1><L2>meinen</L2></word>
+    <word><L1>omluvit prominout</L1><L2>entschuldigen</L2></word>
+    <word><L1>mluvit</L1><L2>sprechen</L2></word>
+    <word><L1>přát si</L1><L2>wünschen</L2></word>
+    <word><L1>dojít pro</L1><L2>holen</L2></word>
+    <word><L1>čekat</L1><L2>warten</L2></word>
+    <word><L1>vzít brát</L1><L2>nehmen</L2></word>
+    <word><L1>nabídnout nabízet</L1><L2>anbieten</L2></word>
+    <word><L1>moci umět</L1><L2>können</L2></word>
+    <word><L1>škodit</L1><L2>schaden</L2></word>
+    <word><L1>přinést</L1><L2>bringen</L2></word>
+    <word><L1>chutnat</L1><L2>schmecken</L2></word>
+    <word><L1>líbit se</L1><L2>gefallen</L2></word>
+    <word><L1>zdravit</L1><L2>grüßen</L2></word>
+    <word><L1>muset</L1><L2>müssen</L2></word>
+    <word><L1>ukázat</L1><L2>zeigen</L2></word>
+    <word><L1>ptát se</L1><L2>fragen</L2></word>
+    <word><L1>začít</L1><L2>beginnen</L2></word>
+    <word><L1>končit</L1><L2>enden</L2></word>
+    <word><L1>dávat pozor</L1><L2>aufpassen</L2></word>
+    <word><L1>mít</L1><L2>sollen</L2></word>
+    <word><L1>opakovat</L1><L2>wiederholen</L2></word>
+    <word><L1>hledat</L1><L2>suchen</L2></word>
+    <word><L1>zapomenout</L1><L2>vergessen</L2></word>
+    <word><L1>opravovat</L1><L2>korrigieren</L2></word>
+    <word><L1>číst</L1><L2>lesen</L2></word>
+    <word><L1>přeložit</L1><L2>übersetzen</L2></word>
+    <word><L1>cvičit</L1><L2>üben</L2></word>
+    <word><L1>rozumět</L1><L2>verstehen</L2></word>
+    <word><L1>myslet</L1><L2>denken</L2></word>
+    <word><L1>vysvětlit</L1><L2>erklären</L2></word>
+    <word><L1>psát</L1><L2>schreiben</L2></word>
+    <word><L1>postavit</L1><L2>stellen</L2></word>
+    <word><L1>odpovídat na</L1><L2>antworten</L2></word>
+    <word><L1>vyprávět</L1><L2>erzählen</L2></word>
+    <word><L1>řešit</L1><L2>lösen</L2></word>
+    <word><L1>zpívat</L1><L2>singen</L2></word>
+    <word><L1>chtít</L1><L2>wollen</L2></word>
+  </words>
+</vocabulary>

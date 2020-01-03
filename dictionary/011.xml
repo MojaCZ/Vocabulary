@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<vocabulary>
+  <name>TAG</name>
+  <languages>
+    <language1>CZ</language1>
+    <language2>NJ</language2>
+  </languages>
+  <words>
+    <word><L1>pondělí</L1><L2>der Montag</L2></word>
+  	<word><L1>úterý</L1><L2>der Dienstag</L2></word>
+  	<word><L1>středa</L1><L2>der Mittwoch</L2></word>
+  	<word><L1>čtvrtek</L1><L2>der Donnerstag</L2></word>
+  	<word><L1>pátek</L1><L2>der Freitag</L2></word>
+  	<word><L1>sobota</L1><L2>der Samstag</L2></word>
+  	<word><L1>neděle</L1><L2>der Sonntag</L2></word>
+  	<word><L1>v pondělí</L1><L2>am Montag</L2></word>
+  	<word><L1>v úterý</L1><L2>am Dienstag</L2></word>
+  	<word><L1>obvykle v pondělí</L1><L2>montags</L2></word>
+  	<word><L1>obvykle v úterý</L1><L2>dienstags</L2></word>
+  </words>
+</vocabulary>

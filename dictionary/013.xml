@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<vocabulary>
+  <name>HEIßEN</name>
+  <languages>
+    <language1>CZ</language1>
+    <language2>NJ</language2>
+  </languages>
+  <words>
+    <word><L1>jmenovat se</L1><L2>heißen</L2></word>
+  	<word><L1>jmenuji se</L1><L2>ich heiße</L2></word>
+  	<word><L1>jmenuješ se</L1><L2>du heißt</L2></word>
+  	<word><L1>on se jmenuje</L1><L2>er heißt</L2></word>
+  	<word><L1>ona se jmenuje</L1><L2>sie heiße</L2></word>
+  	<word><L1>ono se jmenuje</L1><L2>es heißt</L2></word>
+  	<word><L1>jmenujeme se</L1><L2>wir heißen</L2></word>
+  	<word><L1>jmenujete se</L1><L2>ihr heißt</L2></word>
+  	<word><L1>oni se jmenují</L1><L2>Sie heißen</L2></word>
+  </words>
+</vocabulary>

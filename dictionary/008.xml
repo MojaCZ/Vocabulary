@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<vocabulary>
+  <name>WISSEN</name>
+  <languages>
+    <language1>CZ</language1>
+    <language2>NJ</language2>
+  </languages>
+  <words>
+    <word><L1>vědět</L1><L2>wissen</L2></word>
+  	<word><L1>já vím</L1><L2>ich veiß</L2></word>
+  	<word><L1>ty víš</L1><L2>du weißt</L2></word>
+  	<word><L1>on ví</L1><L2>er weiß</L2></word>
+  	<word><L1>ona ví</L1><L2>sie weiß</L2></word>
+  	<word><L1>ono ví</L1><L2>es weiß</L2></word>
+  	<word><L1>my víme</L1><L2>wir wissen</L2></word>
+  	<word><L1>vy víte</L1><L2>ihr wisst</L2></word>
+  	<word><L1>oni vědí</L1><L2>Sie wissen</L2></word>
+  </words>
+</vocabulary>

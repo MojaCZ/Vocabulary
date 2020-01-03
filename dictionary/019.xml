@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<vocabulary>
+  <name>NEW 4</name>
+  <languages>
+    <language1>CZ</language1>
+    <language2>NJ</language2>
+  </languages>
+  <words>
+    <word><L1>už již</L1><L2>schon</L2></word>
+  	<word><L1>ženatý vdaná</L1><L2>verheiratet</L2></word>
+  	<word><L1>teď nyní</L1><L2>jetzt</L2></word>
+  	<word><L1>brzy</L1><L2>bald</L2></word>
+  	<word><L1>teprve</L1><L2>erst</L2></word>
+  	<word><L1>totiž</L1><L2>nämlich</L2></word>
+  	<word><L1>těžký těžce</L1><L2>schwer</L2></word>
+  	<word><L1>pilný pilně</L1><L2>fleißig</L2></word>
+  	<word><L1>stihnout dokázat</L1><L2>schlaffen</L2></word>
+  	<word><L1>tlustý tlustě</L1><L2>dick</L2></word>
+  	<word><L1>sport</L1><L2>r Sport</L2></word>
+  	<word><L1>hrát</L1><L2>spielen</L2></word>
+  	<word><L1>docela celý</L1><L2>ganz</L2></word>
+  	<word><L1>milý mile</L1><L2>nett</L2></word>
+  	<word><L1>někdy občas</L1><L2>manchmal</L2></word>
+  	<word><L1>najít shledávat</L1><L2>finden</L2></word>
+  	<word><L1>nudný nudně</L1><L2>langweilig</L2></word>
+  	<word><L1>sice</L1><L2>zwar</L2></word>
+  </words>
+</vocabulary>

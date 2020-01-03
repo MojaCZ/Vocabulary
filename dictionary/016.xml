@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<vocabulary>
+  <name>L3</name>
+  <languages>
+    <language1>CZ</language1>
+    <language2>NJ</language2>
+  </languages>
+  <words>
+    <word><L1>návštěva</L1><L2>r Besuch</L2></word>
+    <word><L1>den</L1><L2>r Tag</L2></word>
+    <word><L1>pán</L1><L2>r Herr</L2></word>
+    <word><L1>srdečně</L1><L2>herzlich</L2></word>
+    <word><L1>vítán</L1><L2>willkommen</L2></word>
+    <word><L1>dovnitř</L1><L2>herein</L2></word>
+    <word><L1>hned</L1><L2>gleich</L2></word>
+    <word><L1>zase opět</L1><L2>wieder</L2></word>
+    <word><L1>jen pouze</L1><L2>nur</L2></word>
+    <word><L1>chléb</L1><L2>s Brot</L2></word>
+    <word><L1>supermarket</L1><L2>r Supermarkt</L2></word>
+    <word><L1>později</L1><L2>später</L2></word>
+    <word><L1>nebo</L1><L2>oder</L2></word>
+    <word><L1>smět</L1><L2>dürfen</L2></word>
+    <word><L1>rušit</L1><L2>stören</L2></word>
+    <word><L1>vůbec ne</L1><L2>gar nicht</L2></word>
+    <word><L1>místo náměstí</L1><L2>r Platz</L2></word>
+    <word><L1>nic</L1><L2>nichts</L2></word>
+    <word><L1>šálek</L1><L2>e Tasse</L2></word>
+    <word><L1>ihned okamžitě</L1><L2>sofort</L2></word>
+    <word><L1>kus kousek</L1><L2>s Stück</L2></word>
+    <word><L1>koláč</L1><L2>r Kuchen</L2></word>
+    <word><L1>snad</L1><L2>hoffentlich</L2></word>
+    <word><L1>skutečný opravdu</L1><L2>wirklich</L2></word>
+    <word><L1>výborný</L1><L2>ausgezeichnet</L2></word>
+    <word><L1>dlouho</L1><L2>lange</L2></word>
+    <word><L1>týden</L1><L2>e Woche</L2></word>
+    <word><L1>především</L1><L2>vor allem</L2></word>
+    <word><L1>slyšet</L1><L2>hören</L2></word>
+    <word><L1>konečně</L1><L2>endlich</L2></word>
+    <word><L1>tu tady</L1><L2>da</L2></word>
+    <word><L1>cesta</L1><L2>r Weg</L2></word>
+    <word><L1>stanice</L1><L2>e Station</L2></word>
+    <word><L1>nejprve</L1><L2>zuerst</L2></word>
+    <word><L1>rovně přímo</L1><L2>geradeaus</L2></word>
+    <word><L1>vpravo</L1><L2>rechts</L2></word>
+    <word><L1>doprava</L1><L2>nach rechts</L2></word>
+    <word><L1>konec</L1><L2>s Ende</L2></word>
+    <word><L1>na konci</L1><L2>am Ende</L2></word>
+    <word><L1>vlevo</L1><L2>links</L2></word>
+    <word><L1>doleva</L1><L2>nach links</L2></word>
+    <word><L1>vidět</L1><L2>sehen</L2></word>
+  </words>
+</vocabulary>

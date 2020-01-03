@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<vocabulary>
+  <name>L4</name>
+  <languages>
+    <language1>CZ</language1>
+    <language2>NJ</language2>
+  </languages>
+  <words>
+    <word><L1>hodina</L1><L2>e Stunde</L2></word>
+  	<word><L1>dnes</L1><L2>heute</L2></word>
+  	<word><L1>vyučování</L1><L2>r Unterricht</L2></word>
+  	<word><L1>ráno</L1><L2>morgens</L2></word>
+  	<word><L1>poloviční</L1><L2>halb</L2></word>
+  	<word><L1>jedna hodina</L1><L2>e Uhr</L2></word>
+  	<word><L1>do</L1><L2>bis</L2></word>
+  	<word><L1>dvakrát</L1><L2>zweimal</L2></word>
+  	<word><L1>týdně</L1><L2>wöchentlich</L2></word>
+  	<word><L1>v pondělí</L1><L2>montags</L2></word>
+  	<word><L1>ve středu</L1><L2>mittwochs</L2></word>
+  	<word><L1>před</L1><L2>vor</L2></word>
+  	<word><L1>všichni</L1><L2>alle</L2></word>
+  	<word><L1>unavený</L1><L2>müde</L2></word>
+  	<word><L1>učitel</L1><L2>r Lehrer</L2></word>
+  	<word><L1>veselý</L1><L2>lustig</L2></word>
+  	<word><L1>vtip</L1><L2>r Witz</L2></word>
+  	<word><L1>přísný</L1><L2>streng</L2></word>
+  	<word><L1>úkol úloha</L1><L2>e Aufgabe</L2></word>
+  	<word><L1>slovíčko</L1><L2>e Vokabel</L2></word>
+  	<word><L1>neboť</L1><L2>denn</L2></word>
+  	<word><L1>málo</L1><L2>wenig</L2></word>
+  	<word><L1>něco</L1><L2>etwas</L2></word>
+  	<word><L1>tak</L1><L2>so</L2></word>
+  	<word><L1>připravený</L1><L2>vorbereitet</L2></word>
+  	<word><L1>kniha</L1><L2>s Buch</L2></word>
+  	<word><L1>učebnice</L1><L2>s Lehrbuch</L2></word>
+  	<word><L1>cvičení</L1><L2>e Übung</L2></word>
+  	<word><L1>některý mnohý</L1><L2>mancher manche manches</L2></word>
+  	<word><L1>pro za na</L1><L2>für</L2></word>
+  	<word><L1>obtížný</L1><L2>schwierig</L2></word>
+  	<word><L1>určitý</L1><L2>bestimmt</L2></word>
+  	<word><L1>hloupý</L1><L2>dumm</L2></word>
+  	<word><L1>jednou</L1><L2>einmal</L2></word>
+  	<word><L1>příklad</L1><L2>s Beispiel</L2></word>
+  	<word><L1>tabule</L1><L2>e Tafel</L2></word>
+  	<word><L1>bez</L1><L2>ohne</L2></word>
+  	<word><L1>bohužel</L1><L2>leider</L2></word>
+  	<word><L1>chyba</L1><L2>r Fehler</L2></word>
+  	<word><L1>trochu</L1><L2>ein wenig</L2></word>
+  	<word><L1>obsah</L1><L2>r Inhalt</L2></word>
+  	<word><L1>hádanka</L1><L2>s Rätsel</L2></word>
+  	<word><L1>píseň</L1><L2>s Lied</L2></word>
+  	<word><L1>žert</L1><L2>r Spaß</L2></word>
+  	<word><L1>špatný</L1><L2>falsch</L2></word>
+  	<word><L1>správný</L1><L2>richtig</L2></word>
+  </words>
+</vocabulary>

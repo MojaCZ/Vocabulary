@@ -1,0 +1,330 @@
+body {
+  margin:0;
+  background-color: #42424a;
+  overflow: scroll;
+}
+.GRID_header{
+  grid-area: header;
+  padding: 10px;
+  color: white;
+  text-align: center;
+  background-color: #282b2f;
+}
+.GRID_availableVocabulary{
+  grid-area: availableVocabulary;
+  padding-top:20px;
+}
+.GRID_game{
+  grid-area: game;
+  padding-top:20px;
+}
+.GRID_wordsDone{
+  grid-area: wordsDone;
+  padding-top:20px; padding-right: 20px;
+}
+.GRID_footer{
+  grid-area: footer;
+  background-color: #282b2f;
+}
+.GRID_container {
+    display: grid;
+    width: 100vw;
+    height: 100vh;
+    grid-template-columns: 25% auto 25%;
+    grid-template-rows: 50px auto 20px;
+    grid-template-areas:
+      "header header header"
+      "availableVocabulary game wordsDone"
+      "footer footer footer";
+}
+
+/* AVAILABLE VOCABULARY */
+.vocabulary {
+  margin: 5px; margin-right: 10px;
+  padding: 5px; padding-left: 8px;
+  background-color: #ffd149;
+}
+.vocabulary:hover {
+  font-size: 20px;
+  margin-left: 10px; margin-right: 5px;
+}
+
+/* ____________AVAILABLE VOCABULARY */
+
+/* GAME */
+#writeGame, #connectGame {
+  margin: 10px; margin-left: auto;margin-right: auto;
+  padding:0;
+  width: 250px;
+  background-color: #ffffff;
+  text-align: center;
+  border-radius: 4px;
+  box-shadow: 0 0 20px 0px black;
+  /* box-shadow: -1px 1px 5px 9px rgba(0,0,0,0.75); */
+}
+
+.gameHeader, .gameMode, .wordsLeftBar, .gameScore {
+  display: block;
+  width: 100%;
+  padding: 0; margin: 0;
+}
+
+.gameHeader {
+  padding-top: 30px;
+  padding-bottom: 10px;
+  font-size: 20px;
+  vertical-align: bottom;
+  background-color: #d4d4d4; color: gray;
+  border-radius: 4px 4px 0px 0px;
+}
+
+.gameMode {
+  font-size: 0px;
+}
+
+.gameModeOrder, .gameModeShuffel {
+  display: inline-block;
+  color: lightgray;
+  font-size: 15px;
+  width: 50%;
+  /* vertical-align: middle; */
+  height: 30px;
+  line-height: normal;
+  padding-top: 15px; margin-bottom: 10px;
+}
+
+.gameModeOrder:hover, .gameModeShuffel:hover {
+  color: gray;
+}
+
+.wordsLeftBar, .gameScore {
+  font-size: 0;
+  overflow: hidden;
+  width: auto;
+  height: 30px;
+  border: 2px solid #3267d6;
+  border-radius: 4px;
+  margin-top: 20px; margin-left: 30px; margin-right: 30px;
+}
+.wordsLeft, .wordsDone, .wordsCorrect, .wordsMissed {
+  display: inline-block;
+  font-size: 10px;
+  height: 100%;
+}
+.wordsLeft, .wordsCorrect {
+  margin-right: 0; margin-left: auto;
+  text-align: left;
+}
+.wordsDone, .wordsMissed {
+  margin-left: 0; margin-right: auto;
+  text-align: right;
+}
+.wordsLeft {background-color: white}
+.wordsDone {background-color:#3267d6}
+.wordsCorrect {background-color:#07537f}
+.wordsMissed {background-color:#0078b5}
+
+.mainGameWindow {
+  width: 100%;
+  padding:0;
+  margin: 0;
+}
+
+.wordInput, .feedBack {
+  margin: 0; padding: 0;
+  padding: 0px;
+  width:190px;
+  margin:0px;
+  height: 30px;
+  margin-top: 25px; margin-left: auto; margin-right: auto;
+  border: 1px solid lightgray;
+  border-radius: 3px;
+}
+.wordInput{font-size: 0px}
+
+.Input_Get_Language, .Input_Give_Language {
+  margin: 0; padding: 0;
+  display: inline-block;
+  font-size: 15px;
+  width: 25%; height: 25px;
+  background-color: lightgray;
+  color: white;
+  vertical-align: top;
+  padding-top: 5px;
+}
+.Input_Give, .Input_Get {
+  text-align: center;
+  margin: 0; padding: 0;
+  display: inline-block;
+  font-size: 15px;
+  width: 75%; height: 100%;
+  border:0px
+}
+
+.GameBTNs {
+  display: block;
+  margin-top: 40px;
+  font-size: 0;
+  border-radius: 0px 0px 4px 4px;
+}
+.restartBTN, .checkWordBTN {
+  display: inline-block;
+  padding-top: 20px; padding-bottom: 20px;
+  font-size: 15px;
+  background-color: #ea5323;
+  color: lightgray;
+  width: 50%;
+}
+.restartBTN{border-radius: 0px 0px 0px 4px;}
+.checkWordBTN{border-radius: 0px 0px 4px 0px;}
+.restartBTN:hover, .checkWordBTN:hover {
+  color: white;
+}
+
+/* GAME CONNECT: */
+#connectGame {
+  font-size: 0;
+  width: fit-content;
+  /* box-sizing: border-box; */
+  white-space: nowrap;
+}
+#L1Container, #L2Container {
+
+  width: fit-content;
+  /* padding: 5px 0 5px 0; */
+  display: inline-block;
+  /* box-sizing: border-box; */
+  width: 50%;
+  white-space: nowrap;
+}
+
+#L1Container div, #L2Container div {
+  /* box-sizing: border-box; */
+  font-size: 15px;
+  width: 150px;
+  margin: 5px 5px 5px 5px;
+  padding: 5px 0 5px 0;
+  display: block;
+  border: 1px solid lightgray;
+  border-radius: 4px;
+  text-align: center;
+  color: white;
+}
+
+#L1Container div {
+  /* text-align: right; */
+  background-color:#3267d6
+}
+#L2Container div {
+  /* text-align: left; */
+  /* background-color:#07537f */
+  background-color:#0078b5
+}
+/* _________________________________________________________GAME */
+
+
+
+/* WORDS DONE */
+.wordDone, .wordLeft{
+  margin: 5px;
+  /* margin-right: 25px; */
+  padding: 5px; padding-left: 8px;
+  background-color: #ffd149;
+}
+.wordDoneL1, .wordDoneL2, .wordLeftL1, .wordLeftL2 {
+  display: inline-block;
+  width: 48%;
+  font-size: 14px;
+}
+#wordsLeftBtnDiv {
+  padding: 5px; margin: 5px; font-size: 0px;
+  color: lightgray;
+}
+#wordsLeftBTN {
+  font-size: 15px; line-height: 18px;
+  display: block;
+  width: 90%;
+  background-color: #3267d6; color: white;
+  text-align: center;
+  margin: 0 5% 5px 5%;
+  border-radius: 4px;
+  /* max-height: 18px; */
+}
+#wordsLeftL1BTN, #wordsLeftL2BTN {
+  display: inline-block;
+  background-color: #3267d6; color: white;
+  width: 40%;
+  margin: 0 5% 0 5%;
+  font-size: 15px; line-height: 18px;
+  text-align: center;
+  border-radius: 4px;
+  /* max-height: 18px; */
+}
+#wordsLeftBTN:hover, #wordsLeftL1BTN:hover, #wordsLeftL2BTN:hover {
+  background-color: #0078b5; color: lightgray;
+}
+/* .wordDoneL2{float:left;}
+.wordDoneL1{float:right;} */
+
+/* .wordDone, .wordDoneAttempts, .wordDoneRemove {
+  display: inline-block;
+  padding-right: 5px;
+} */
+
+/* ____________WORDS DONE */
+
+
+
+/* The popup form - hidden by default */
+.formContainer {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  right: 15px;
+  border: 3px solid #f1f1f1;
+  z-index: 9;
+}
+
+/* Add styles to the form container */
+.newVocabForm {
+  max-width: 300px;
+  padding: 10px;
+  background-color: white;
+}
+
+/* Full-width input fields */
+.newVocabForm input[type=text], .newLanguage {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background: #f1f1f1;
+}
+
+/* When the inputs get focus, do something */
+.newVocabForm input[type=text]:focus, .newLanguage:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Set a style for the submit/login button */
+.newVocabForm .submitBTN {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom:10px;
+  opacity: 0.8;
+}
+
+/* Add a red background color to the cancel button */
+.newVocabForm .cancelBTN {
+  background-color: red;
+}
+
+/* Add some hover effects to buttons */
+.cancelBTN:hover {
+  opacity: 1;
+}
