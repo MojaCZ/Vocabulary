@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="utf-8" />
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <title>Vocabulary</title>
+ <link href="/Vocabulary/files/style.css" rel="stylesheet" type="text/css">
+ <script src="https://kit.fontawesome.com/6f10b46713.js" crossorigin="anonymous"></script>
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<script src="/Vocabulary/files/angular.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.9/angular-animate.js"></script>
+<script type="text/javascript" src="/Vocabulary/files/pageBlocks.js"></script>
+<script type="text/javascript" src="/Vocabulary/files/dictionary.js"></script>
+<script type="text/javascript" src="/Vocabulary/files/main.js"></script>
+
+<body ng-app="vocabularyApp">
+  <div class="container">
+    <div class="menu">
+      <div class="menuBTN showVocabBTN" ng-click="availableVocabularyOFF = !availableVocabularyOFF"><i class="fas fa-bookmark"></i></div>
+      <h1>VOCABULARY APP</h1>
+      <div id="gameChangeBTN">CLICK ME</div>
+      <div class="menuBTN showWordsBTN" ng-click="activeWordsListOFF = !activeWordsListOFF"><i class="fas fa-clipboard-list"></i></div>
+    </div>
+
+    <div class="content">
+      <div class="availableVocabulary" id="availableVocabulary" ng-hide="mobile && availableVocabularyOFF">
+      </div>
+
+      <div class="game">
+        <div id="connectGame">
+          <div class="gameHeader" id="gameConnectHeader"></div>
+          <div class="gameMode">
+            <div class="gameModeOrder" id="gameConnectModeOrder">Order</div>
+            <div class="gameModeShuffel" id="gameConnectModeShuffel">Shuffel</div>
+          </div>
+          <div id="L1Container"></div>
+          <div id="L2Container"></div>
+          <div class="GameBTNs">
+            <div class="restartBTN" id="restartConnectBTN">RESTART</div>
+            <div class="checkWordBTN" id="checkWordConnectBTN">CHECK</div>
+          </div>
+        </div>
+
+        <div id="writeGame">
+          <div class="gameHeader" id="gameWriteHeader"></div>
+          <div class="gameMode">
+            <div class="gameModeOrder" id="gameWriteModeOrder">Order</div>
+            <div class="gameModeShuffel" id="gameWriteModeShuffel">Shuffel</div>
+          </div>
+
+          <div class="wordsLeftBar" id="wordsLeftBar">
+            <div class="wordsLeft" id="wordsLeft"></div>
+            <div class="wordsDone" id="wordsDone"></div>
+          </div>
+
+          <div class="gameScore" id="gameScore">
+            <div class="wordsCorrect" id="wordsCorrect"></div>
+            <div class="wordsMissed" id="wordsMissed"></div>
+          </div>
+
+          <div class="mainGameWindow">
+            <div class="wordInput">
+              <div class="Input_Get_Language">CZ</div>
+              <input type="text" autocapitalize="off" autocomplete="off" autocorrect="off" class="Input_Give" id="Input_Give"></input>
+            </div>
+            <div class="wordInput">
+              <div class="Input_Give_Language">DE</div>
+              <input type="text" autocapitalize="off" autocomplete="off" autocorrect="off" class="Input_Get" id="Input_Get"></input>
+            </div>
+            <div class="feedBack" id="feedBack"></div>
+          </div>
+          <div class="GameBTNs">
+            <div class="restartBTN" id="restartWriteBTN">RESTART</div>
+            <div class="checkWordBTN" id="checkWordWriteBTN">CHECK</div>
+          </div>
+
+        </div>
+      </div>
+
+      <div class="activeWordsList" ng-hide="mobile && activeWordsListOFF">
+        <div id="wordDoneBlock"></div>
+        <hr>
+        <div id="wordsLeftBlock"></div>
+      </div>
+    </div>
+
+    <div class="footer">THIS IS FOOTER
+    </div>
+
+<!-- <input type="text" name="czech" id="Input_Give" value="czech">
+<input type="text" name="german" id="Input_Get" value="german">
+<input type="submit" id="nextWord" value="NEXT">
+<input type="submit" id="newVocabFormShowBTN" value="ADD WORD">
+<div id="Rightness"></div>
+<div id="wordFiles"></div>
+<div id="wordSetup"></div>
+
+
+
+<div class="formContainer" id="newVocabFormContainer">
+  <form action="" id="newVocabForm" class="newVocabForm">
+    <h1>ADD VOCABULARY</h1>
+    <label for="NewVocName"><b>Name of Vocabulary</b></label>
+
+    <input type="text" id="NewVocName" name="NewVocName" required>
+    <label for="newLanguage1"><b>First language</b></label>
+    <input list="languageList" id="newLanguage1" class="newLanguage" required>
+    <label for="newLanguage2"><b>Second language</b></label>
+    <input list="languageList" id="newLanguage2" class="newLanguage" required>
+    <datalist id="languageList">
+      <option value="CZ"/>
+      <option value="DE"/>
+      <option value="EN"/>
+    </datalist>
+
+    <input type="submit" id="newVocabBTN" value="ADD VOCABULARY" class="submitBTN">
+    <input type="button" id="newVocabFormHideBTN" value="BACK" class="cancelBTN">
+  </form>
+</div> -->
+
+  </div>
+</body>
+</html>

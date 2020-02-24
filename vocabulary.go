@@ -25,7 +25,10 @@ func main() {
   http.Handle("/Vocabulary/files/", http.StripPrefix("/Vocabulary/files", http.FileServer(http.Dir("./static"))))
   http.Handle("/Vocabulary/dictionary/", http.StripPrefix("/Vocabulary/dictionary", http.FileServer(http.Dir("./dictionary"))))
   http.HandleFunc("/Vocabulary/availableDictionary/", dictionaryFiles)
-  http.HandleFunc("/", index)
+  // http.HandleFunc("/", index)
+  http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request){
+    http.ServeFile(w, r, "./index.html")
+  })
 
   err := http.ListenAndServe(":8081", nil)
   if err != nil {
@@ -33,12 +36,12 @@ func main() {
   }
 }
 
-func index(w http.ResponseWriter, req *http.Request) {
-  err := tpl.ExecuteTemplate(w, "index.gohtml", nil)
-  if err != nil {
-    log.Fatalln(err)
-  }
-}
+// func index(w http.ResponseWriter, req *http.Request) {
+//   err := tpl.ExecuteTemplate(w, "index.gohtml", nil)
+//   if err != nil {
+//     log.Fatalln(err)
+//   }
+// }
 
 
 // WordsFile is struct that serves for reading name of dictionary file

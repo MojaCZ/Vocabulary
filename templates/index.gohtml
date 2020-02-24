@@ -5,17 +5,22 @@
  <meta http-equiv="X-UA-Compatible" content="IE=edge">
  <title>Vocabulary</title>
  <link href="/Vocabulary/files/style.css" rel="stylesheet" type="text/css">
- <script type="text/javascript" src="/Vocabulary/files/pageBlocks.js"></script>
- <script type="text/javascript" src="/Vocabulary/files/dictionary.js"></script>
- <script type="text/javascript" src="/Vocabulary/files/main.js"></script>
+ <script src="https://kit.fontawesome.com/6f10b46713.js" crossorigin="anonymous"></script>
  <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
-<body>
+
+<script src="/Vocabulary/files/angular.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.9/angular-animate.js"></script>
+<script type="text/javascript" src="/Vocabulary/files/pageBlocks.js"></script>
+<script type="text/javascript" src="/Vocabulary/files/dictionary.js"></script>
+<script type="text/javascript" src="/Vocabulary/files/main.js"></script>
+
+<body ng-app="vocabularyApp">
   <div class="GRID_container">
-    <div class="GRID_header">WELCOME TO VOCABULARY APP<div id="gameChangeBTN">CLICK ME</div></div>
+    <div class="GRID_header">VOCABULARY APP<div id="gameChangeBTN">CLICK ME</div></div>
 
 
-    <div class="GRID_availableVocabulary" id="availableVocabulary"></div>
+    <div class="GRID_availableVocabulary" id="availableVocabulary" ng-hide="mobile"></div>
 
     <div class="GRID_game">
       <div id="connectGame">

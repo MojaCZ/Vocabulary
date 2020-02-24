@@ -19,7 +19,27 @@ var showHideEl = function(el, a, property){
   return;
 }
 
-window.onload = function(evt){
+
+var app = angular.module("vocabularyApp", ["ngAnimate"])
+
+app.run(function($rootScope, $http, $window){
+
+  $rootScope.mobile = $window.innerWidth < 800;
+  $rootScope.availableVocabularyOFF = true;
+  $rootScope.activeWordsListOFF = true;
+
+  angular.element($window).bind('resize', function(){
+    $rootScope.mobile = $window.innerWidth < 800;
+    console.log($window.innerWidth, $rootScope.mobile)
+    $rootScope.$apply()
+  })
+
+
+  $rootScope.getVocabulary = function(){
+  }
+  $rootScope.getWords = function(){
+  }
+
   V = new Vocabulary();
   G1 = new GameWrite(V);
   G2 = new GameConnect(V);
@@ -47,44 +67,6 @@ window.onload = function(evt){
     G2.restart()
   };
 
-  // SHOW/HIDE WORDS LEFT________________________________________________________
-  var wordsLeftBlock = document.getElementById("wordsLeftBlock")
-  var wordsLeftBTN = document.getElementById("wordsLeftBTN")
-  wordsLeftBTN.addEventListener("click", function(){
-    showHideEl(wordsLeftBlock, -1, "block");
-  });
-
-  var wordsLeftL1 = document.getElementsByClassName("wordLeftL1")
-  var wordsLeftL2 = document.getElementsByClassName("wordLeftL2")
-  var wordsLeftL1BTN = document.getElementById("wordsLeftL1BTN")
-  var wordsLeftL2BTN = document.getElementById("wordsLeftL2BTN")
-  wordsLeftL1BTN.addEventListener("click", function(){
-    for(var i=0; i<wordsLeftL1.length; i++) {
-      showHideEl(wordsLeftL1[i], -1, "inline-block");
-    }
-  });
-  wordsLeftL2BTN.addEventListener("click", function(){
-    for(var i=0; i<wordsLeftL2.length; i++) {
-      showHideEl(wordsLeftL2[i], -1, "inline-block");
-    }
-  });
-  // ___________________________________________________________________________SHOW/HIDE WORDS LEFT
-
-
-  // W = new Words(0, "ahoj", "L1", "L2");
-
-  // FORM NEW WORDS
-  // newVocabForm = document.getElementById("newVocabFormContainer");
-  // newVocabForm.style.display = "none";
-  // newVocabFormShowBTN = document.getElementById("newVocabFormShowBTN");
-  // newVocabFormHideBTN = document.getElementById("newVocabFormHideBTN");
-  // newVocabFormShowBTN.addEventListener("click", function(){
-  //   showHideEl(newVocabForm, 0);
-  // });
-  // newVocabFormHideBTN.addEventListener("click", function(){
-  //   showHideEl(newVocabForm, 1);
-  // });
-
   // ON BUTTON CLICK OR ENTER
   document.getElementById('checkWordWriteBTN').addEventListener("click", function(){
     G1.showNextWord()
@@ -95,8 +77,9 @@ window.onload = function(evt){
   document.addEventListener('keyup',function(e){
     if (e.keyCode === 13) {
     G1.showNextWord()
-  }
+    }
+  })
   // ________________________ ON BUTTON CLICK OR ENTER
 
-});
-}
+
+})
