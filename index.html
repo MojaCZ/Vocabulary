@@ -20,7 +20,8 @@
   <div class="container">
     <div class="menu">
       <div class="menuBTN showVocabBTN" ng-click="availableVocabularyOFF = !availableVocabularyOFF"><i class="fas fa-bookmark"></i></div>
-      <h1>VOCABULARY APP</h1>
+      <h1 ng-hide="mobile">VOCABULARY APP</h1>
+      <h1 ng-show="mobile" id="gameWriteHeader2">AAAA</h1>
       <div id="gameChangeBTN">CLICK ME</div>
       <div class="menuBTN showWordsBTN" ng-click="activeWordsListOFF = !activeWordsListOFF"><i class="fas fa-clipboard-list"></i></div>
     </div>
@@ -45,7 +46,7 @@
         </div>
 
         <div id="writeGame">
-          <div class="gameHeader" id="gameWriteHeader"></div>
+          <div class="gameHeader" id="gameWriteHeader" ng-hide="mobile"></div>
           <div class="gameMode">
             <div class="gameModeOrder" id="gameWriteModeOrder">Order</div>
             <div class="gameModeShuffel" id="gameWriteModeShuffel">Shuffel</div>

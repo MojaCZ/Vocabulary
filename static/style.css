@@ -360,6 +360,7 @@ body {
     -ms-overflow-style: none;
     scrollbar-width: none;
   }
+  #gameChangeBTN{display: none;}
   .gameHeader {
     padding-top: 10px;
     padding-bottom: 10px;
@@ -403,6 +404,7 @@ body {
   @media screen and (max-height: 550px) {
     .GameBTNs{display: none;}
     .footer{display: none;}
+    .wordsLeftBar, .gameScore {display: none}
   }
   @media screen and (max-height: 450px) {
     .gameMode{display: none;}

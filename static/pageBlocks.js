@@ -104,6 +104,7 @@ class GameWriteDiv {
   constructor(V) {
     this.V = V
     this.gameHeader = document.getElementById("gameWriteHeader")
+    this.gameHeader2 = document.getElementById("gameWriteHeader2")
     this.gameModeOrder = document.getElementById("gameWriteModeOrder")
     this.gameModeOrder.style.borderBottom = "2px solid gray";
     this.gameModeShuffel = document.getElementById("gameWriteModeShuffel")
@@ -123,6 +124,7 @@ class GameWriteDiv {
 
   changeHeader(header) {
     this.gameHeader.innerHTML = header
+    this.gameHeader2.innerHTML = header
   }
 
   addToBar(bar, leftIncrement, rightIncrement) {
