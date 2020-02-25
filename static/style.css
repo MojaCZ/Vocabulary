@@ -360,6 +360,10 @@ body {
     -ms-overflow-style: none;
     scrollbar-width: none;
   }
+  .gameHeader {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
   .vocabulary, .wordLeft, .wordDone{
     background-color: inherit;
     font-size: 15px;
@@ -395,5 +399,12 @@ body {
     left: 0;
     bottom: 30px;
     width: 100%;
+  }
+  @media screen and (max-height: 550px) {
+    .GameBTNs{display: none;}
+    .footer{display: none;}
+  }
+  @media screen and (max-height: 450px) {
+    .gameMode{display: none;}
   }
 }

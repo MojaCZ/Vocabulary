@@ -1,56 +1,52 @@
 <?xml version='1.0' encoding="UTF-8"?>
 <vocabulary>
-  <name>L4</name>
+  <name>L3</name>
   <languages>
     <language1>CZ</language1>
     <language2>NJ</language2>
   </languages>
   <words>
-    <word><L1>hodina</L1><L2>e Stunde</L2></word>
-  	<word><L1>dnes</L1><L2>heute</L2></word>
-  	<word><L1>vyučování</L1><L2>r Unterricht</L2></word>
-  	<word><L1>ráno</L1><L2>morgens</L2></word>
-  	<word><L1>poloviční</L1><L2>halb</L2></word>
-  	<word><L1>jedna hodina</L1><L2>e Uhr</L2></word>
-  	<word><L1>do</L1><L2>bis</L2></word>
-  	<word><L1>dvakrát</L1><L2>zweimal</L2></word>
-  	<word><L1>týdně</L1><L2>wöchentlich</L2></word>
-  	<word><L1>v pondělí</L1><L2>montags</L2></word>
-  	<word><L1>ve středu</L1><L2>mittwochs</L2></word>
-  	<word><L1>před</L1><L2>vor</L2></word>
-  	<word><L1>všichni</L1><L2>alle</L2></word>
-  	<word><L1>unavený</L1><L2>müde</L2></word>
-  	<word><L1>učitel</L1><L2>r Lehrer</L2></word>
-  	<word><L1>veselý</L1><L2>lustig</L2></word>
-  	<word><L1>vtip</L1><L2>r Witz</L2></word>
-  	<word><L1>přísný</L1><L2>streng</L2></word>
-  	<word><L1>úkol úloha</L1><L2>e Aufgabe</L2></word>
-  	<word><L1>slovíčko</L1><L2>e Vokabel</L2></word>
-  	<word><L1>neboť</L1><L2>denn</L2></word>
-  	<word><L1>málo</L1><L2>wenig</L2></word>
-  	<word><L1>něco</L1><L2>etwas</L2></word>
-  	<word><L1>tak</L1><L2>so</L2></word>
-  	<word><L1>připravený</L1><L2>vorbereitet</L2></word>
-  	<word><L1>kniha</L1><L2>s Buch</L2></word>
-  	<word><L1>učebnice</L1><L2>s Lehrbuch</L2></word>
-  	<word><L1>cvičení</L1><L2>e Übung</L2></word>
-  	<word><L1>některý mnohý</L1><L2>mancher manche manches</L2></word>
-  	<word><L1>pro za na</L1><L2>für</L2></word>
-  	<word><L1>obtížný</L1><L2>schwierig</L2></word>
-  	<word><L1>určitý</L1><L2>bestimmt</L2></word>
-  	<word><L1>hloupý</L1><L2>dumm</L2></word>
-  	<word><L1>jednou</L1><L2>einmal</L2></word>
-  	<word><L1>příklad</L1><L2>s Beispiel</L2></word>
-  	<word><L1>tabule</L1><L2>e Tafel</L2></word>
-  	<word><L1>bez</L1><L2>ohne</L2></word>
-  	<word><L1>bohužel</L1><L2>leider</L2></word>
-  	<word><L1>chyba</L1><L2>r Fehler</L2></word>
-  	<word><L1>trochu</L1><L2>ein wenig</L2></word>
-  	<word><L1>obsah</L1><L2>r Inhalt</L2></word>
-  	<word><L1>hádanka</L1><L2>s Rätsel</L2></word>
-  	<word><L1>píseň</L1><L2>s Lied</L2></word>
-  	<word><L1>žert</L1><L2>r Spaß</L2></word>
-  	<word><L1>špatný</L1><L2>falsch</L2></word>
-  	<word><L1>správný</L1><L2>richtig</L2></word>
+    <word><L1>návštěva</L1><L2>r Besuch</L2></word>
+    <word><L1>den</L1><L2>r Tag</L2></word>
+    <word><L1>pán</L1><L2>r Herr</L2></word>
+    <word><L1>srdečně</L1><L2>herzlich</L2></word>
+    <word><L1>vítán</L1><L2>willkommen</L2></word>
+    <word><L1>dovnitř</L1><L2>herein</L2></word>
+    <word><L1>hned</L1><L2>gleich</L2></word>
+    <word><L1>zase opět</L1><L2>wieder</L2></word>
+    <word><L1>jen pouze</L1><L2>nur</L2></word>
+    <word><L1>chléb</L1><L2>s Brot</L2></word>
+    <word><L1>supermarket</L1><L2>r Supermarkt</L2></word>
+    <word><L1>později</L1><L2>später</L2></word>
+    <word><L1>nebo</L1><L2>oder</L2></word>
+    <word><L1>smět</L1><L2>dürfen</L2></word>
+    <word><L1>rušit</L1><L2>stören</L2></word>
+    <word><L1>vůbec ne</L1><L2>gar nicht</L2></word>
+    <word><L1>místo náměstí</L1><L2>r Platz</L2></word>
+    <word><L1>nic</L1><L2>nichts</L2></word>
+    <word><L1>šálek</L1><L2>e Tasse</L2></word>
+    <word><L1>ihned okamžitě</L1><L2>sofort</L2></word>
+    <word><L1>kus kousek</L1><L2>s Stück</L2></word>
+    <word><L1>koláč</L1><L2>r Kuchen</L2></word>
+    <word><L1>snad</L1><L2>hoffentlich</L2></word>
+    <word><L1>skutečný opravdu</L1><L2>wirklich</L2></word>
+    <word><L1>výborný</L1><L2>ausgezeichnet</L2></word>
+    <word><L1>dlouho</L1><L2>lange</L2></word>
+    <word><L1>týden</L1><L2>e Woche</L2></word>
+    <word><L1>především</L1><L2>vor allem</L2></word>
+    <word><L1>slyšet</L1><L2>hören</L2></word>
+    <word><L1>konečně</L1><L2>endlich</L2></word>
+    <word><L1>tu tady</L1><L2>da</L2></word>
+    <word><L1>cesta</L1><L2>r Weg</L2></word>
+    <word><L1>stanice</L1><L2>e Station</L2></word>
+    <word><L1>nejprve</L1><L2>zuerst</L2></word>
+    <word><L1>rovně přímo</L1><L2>geradeaus</L2></word>
+    <word><L1>vpravo</L1><L2>rechts</L2></word>
+    <word><L1>doprava</L1><L2>nach rechts</L2></word>
+    <word><L1>konec</L1><L2>s Ende</L2></word>
+    <word><L1>na konci</L1><L2>am Ende</L2></word>
+    <word><L1>vlevo</L1><L2>links</L2></word>
+    <word><L1>doleva</L1><L2>nach links</L2></word>
+    <word><L1>vidět</L1><L2>sehen</L2></word>
   </words>
 </vocabulary>

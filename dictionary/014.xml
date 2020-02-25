@@ -1,43 +1,41 @@
 <?xml version='1.0' encoding="UTF-8"?>
 <vocabulary>
-  <name>L1</name>
+  <name>Klettern</name>
   <languages>
-    <language1>CZ</language1>
+    <language1>EN</language1>
     <language2>NJ</language2>
   </languages>
   <words>
-    <word><L1>ale</L1><L2>aber</L2></word>
-  	<word><L1>zvědavý zvědavě</L1><L2>neugierig</L2></word>
-  	<word><L1>jak jako jaký</L1><L2>wie</L2></word>
-  	<word><L1>a</L1><L2>und</L2></word>
-  	<word><L1>odkud</L1><L2>woher</L2></word>
-  	<word><L1>z</L1><L2>aus</L2></word>
-  	<word><L1>mě mne</L1><L2>mich</L2></word>
-  	<word><L1>ne nikoli</L1><L2>nein</L2></word>
-  	<word><L1>kde</L1><L2>wo</L2></word>
-  	<word><L1>daleko</L1><L2>weit</L2></word>
-  	<word><L1>od z o</L1><L2>von</L2></word>
-  	<word><L1>ano</L1><L2>ja</L2></word>
-  	<word><L1>dost značný značně</L1><L2>ziemlich</L2></word>
-  	<word><L1>kdo</L1><L2>wer</L2></word>
-  	<word><L1>tam</L1><L2>dort</L2></word>
-  	<word><L1>přece</L1><L2>doch</L2></word>
-  	<word><L1>dobrý dobře</L1><L2>gut</L2></word>
-  	<word><L1>co</L1><L2>was</L2></word>
-  	<word><L1>dělat</L1><L2>machen</L2></word>
-  	<word><L1>zde tady</L1><L2>hier</L2></word>
-  	<word><L1>také</L1><L2>auch</L2></word>
-  	<word><L1>tě tebe</L1><L2>dich</L2></word>
-  	<word><L1>přirozený přirozeně</L1><L2>natürlich</L2></word>
-  	<word><L1>ještě</L1><L2>noch</L2></word>
-  	<word><L1>vlastně</L1><L2>eigentlich</L2></word>
-  	<word><L1>historie</L1><L2>e Geschichte</L2></word>
-  	<word><L1>škola</L1><L2>e Schule</L2></word>
-  	<word><L1>jméno</L1><L2>r Name</L2></word>
-  	<word><L1>v do za</L1><L2>in</L2></word>
-  	<word><L1>můj má mé</L1><L2>mein meine mein</L2></word>
-  	<word><L1>město</L1><L2>e Stadt</L2></word>
-  	<word><L1>velmi</L1><L2>sehr</L2></word>
-  	<word><L1>pěkný pěkně</L1><L2>schön</L2></word>
+    <word><L1>Abseiling</L1><L2>Abseilen</L2></word>
+    <word><L1>Rope</L1><L2>Seil</L2></word>
+    <word><L1>Rock</L1><L2>Stein</L2></word>
+    <word><L1>Climbing</L1><L2>Klettern</L2></word>
+    <word><L1>Cesta</L1><L2>Weg</L2></word>
+    <word><L1>Quickdraw</L1><L2>Expreßschlinge</L2></word>
+    <word><L1>Sling</L1><L2>Schlinge</L2></word>
+    <word><L1>Belay</L1><L2>Sichern</L2></word>
+    <word><L1>hold</L1><L2>Griff</L2></word>
+    <word><L1>Tunnel (hodiny)</L1><L2>Sanduhr</L2></word>
+    <word><L1>Crag, Rock</L1><L2>Felsen</L2></word>
+    <word><L1>Corner</L1><L2>Winkel, Nische, Ecke</L2></word>
+    <word><L1>Arete</L1><L2>Kante</L2></word>
+    <word><L1>Couloir</L1><L2>Rinne</L2></word>
+    <word><L1>Crack</L1><L2>Riß</L2></word>
+    <word><L1>Chimney</L1><L2>Kamin</L2></word>
+    <word><L1>Ledge</L1><L2>Leiste</L2></word>
+    <word><L1>Overhang</L1><L2>Überhang</L2></word>
+    <word><L1>Pillar</L1><L2>Pfeiler</L2></word>
+    <word><L1>Slab (plotna)</L1><L2>Platte</L2></word>
+    <word><L1>Rib (žebro)</L1><L2>Rippe</L2></word>
+    <word><L1>Piton (skoba)</L1><L2>Haken</L2></word>
+    <word><L1>Anchor</L1><L2>Verankerung</L2></word>
+    <word><L1>Bolt</L1><L2>Haken</L2></word>
+    <word><L1>Fall</L1><L2>Sturz</L2></word>
+    <word><L1>Belayer</L1><L2>Sicherungsmann</L2></word>
+    <word><L1>Climbing gym</L1><L2>Kletterhalle</L2></word>
+    <word><L1>Climbing shoes</L1><L2>Kletterschuhe</L2></word>
+    <word><L1>Handjam</L1><L2>Handklemmer</L2></word>
+    <word><L1>Harness</L1><L2>Klettergurt</L2></word>
+    <word><L1>Nut</L1><L2>Klemmkeil</L2></word>
   </words>
 </vocabulary>

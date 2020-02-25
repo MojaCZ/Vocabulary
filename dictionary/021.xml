@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<vocabulary>
+  <name>Klettern 2</name>
+  <languages>
+    <language1>EN</language1>
+    <language2>NJ</language2>
+  </languages>
+  <words>
+    <word><L1>Aid climbing</L1><L2>Technisch klettern</L2></word>
+    <word><L1>Belay on</L1><L2>Nachkommen</L2></word>
+    <word><L1>Comming</L1><L2>Ich komme</L2></word>
+    <word><L1>Take</L1><L2>Zu</L2></word>
+    <word><L1>Belay off</L1><L2>Seil ein</L2></word>
+    <word><L1>Lower me</L1><L2>Ab</L2></word>
+    <word><L1>Grade</L1><L2>Schwierigkeitsgrad</L2></word>
+    <word><L1>Summit, Peak</L1><L2>Gipfel</L2></word>
+    <word><L1>Pitch</L1><L2>Seillänge</L2></word>
+    <word><L1>Exposed</L1><L2>Ausgesetzt</L2></word>
+    <word><L1>Biner</L1><L2>Karabiner</L2></word>
+    <word><L1>Limestone (Vápenec)</L1><L2>Kalkstein</L2></word>
+    <word><L1>Sandstone</L1><L2>Sandstein</L2></word>
+    <word><L1>Granite (Žula)</L1><L2>Granit</L2></word>
+    <word><L1>Slate (Břidlice)</L1><L2>Schiefer</L2></word>
+    <word><L1>Layback (Sokolík)</L1><L2>Hangel</L2></word>
+    <word><L1>Pocket</L1><L2>Fingerloch</L2></word>
+    <word><L1>Undercling</L1><L2>Untergriff</L2></word>
+    <word><L1>Wall</L1><L2>Wand</L2></word>
+    <word><L1>Peak (věž)</L1><L2>Turm</L2></word>
+    <word><L1>Protection</L1><L2>Sicherung</L2></word>
+    <word><L1>Belay station</L1><L2>Stand</L2></word>
+    <word><L1>Ascenders</L1><L2>Steigklemmen</L2></word>
+    <word><L1>Crux</L1><L2>Schlucht</L2></word>
+    <word><L1>Avalanche</L1><L2>Lawine</L2></word>
+    <word><L1>Bowline</L1><L2>Bulinknoten</L2></word>
+    <word><L1>Jug</L1><L2>Hänkel</L2></word>
+    <word><L1>Chest harness</L1><L2>Brustklettergurt</L2></word>
+    <word><L1>Crampons</L1><L2>Steigeisen</L2></word>
+    <word><L1>Crevasse</L1><L2>spalte</L2></word>
+    <word><L1>Figure eight</L1><L2>Achtknoten</L2></word>
+    <word><L1>Fisherman knot</L1><L2>Spierenstich</L2></word>
+    <word><L1>Glacier</L1><L2>Gletscher</L2></word>
+    <word><L1>Ice axe</L1><L2>Eispickel</L2></word>
+    <word><L1>Leader</L1><L2>Vorsteiger</L2></word>
+    <word><L1>Multi pitch climb</L1><L2>Mehrseillaengentour</L2></word>
+    <word><L1>Overhand knot</L1><L2>Sackstich</L2></word>
+    <word><L1>Pitch</L1><L2>Seillaenge</L2></word>
+    <word><L1>Rappel</L1><L2>Abseilen</L2></word>
+    <word><L1>Roof</L1><L2>Dach</L2></word>
+    <word><L1>Traverse</L1><L2>Quergang</L2></word>
+  </words>
+</vocabulary>
