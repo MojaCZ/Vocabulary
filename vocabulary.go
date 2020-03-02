@@ -29,6 +29,9 @@ func main() {
   http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request){
     http.ServeFile(w, r, "./index.html")
   })
+  http.HandleFunc("/.well-known/pki-validation/705291298503C61AB1138E8371496A72.txt", func(w http.ResponseWriter, r *http.Request){
+    http.ServeFile(w, r, "./.well-known/pki-validation/705291298503C61AB1138E8371496A72.txt")
+  })
 
   err := http.ListenAndServe(":8081", nil)
   if err != nil {

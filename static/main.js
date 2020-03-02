@@ -30,7 +30,6 @@ app.run(function($rootScope, $http, $window){
 
   angular.element($window).bind('resize', function(){
     $rootScope.mobile = $window.innerWidth < 800;
-    console.log($window.innerWidth, $rootScope.mobile)
     $rootScope.$apply()
   })
 

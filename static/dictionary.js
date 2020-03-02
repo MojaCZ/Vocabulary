@@ -38,7 +38,7 @@ class Vocabulary {
     this.availableFiles = []
     this.currentWords = new Words("001");  // initialize with first file
     this.dictionary = {"001": this.currentWords}   // already loaded files stored in key:value objects (at start put 00001)
-    this.wordFiles = document.getElementById("availableVocabulary") // div into which buttons pointing to files with wordl will be displayed
+    this.wordFiles = document.getElementById("availableVocabularyUL") // div into which buttons pointing to files with wordl will be displayed
     this.getFiles()
     this.displayFiles()
   }
@@ -63,7 +63,7 @@ class Vocabulary {
   // displayFiles will display buttons with availableFiles
   displayFiles(){
     for(var i=0; i<this.nFiles; i++){
-      var fileBTN = document.createElement("div")
+      var fileBTN = document.createElement("li")
       fileBTN.className = "vocabulary"
       fileBTN.innerHTML = this.availableFiles[i][0];
 

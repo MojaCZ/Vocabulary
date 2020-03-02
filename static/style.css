@@ -1,8 +1,9 @@
 body {
   margin:0;
   background-color: #42424a;
-  overflow: scroll;
+  /* overflow: scroll; */
 }
+
 .container {
     display: block;
     width: 100%;
@@ -46,16 +47,29 @@ body {
   position: fixed;
   top: 50px;
   width: 280px;
-  height: calc(100% - 50px - 30px);
-  max-height: calc(100% - 50px - 30px);
+  height: calc(100% - 50px - 30px - 20px);
+  max-height: calc(100% - 50px - 30px - 20px);
   overflow-y: scroll;
 }
 .availableVocabulary{
   left: 10px;
+  direction: rtl;
+  margin: 10px 0;
+}
+#availableVocabularyUL{
+  list-style: none;
+  direction: ltr;
+  padding: 0;
+  margin: 0;
+}
+#availableVocabularyUL li{
+  text-decoration: none;
 }
 .activeWordsList{
   right: 10px;
 }
+
+
 .game{
   padding-top:20px;
 }
@@ -351,6 +365,20 @@ body {
 .cancelBTN:hover {
   opacity: 1;
 }
+@media screen and (min-width: 800px) {
+  .availableVocabulary::-webkit-scrollbar-track, .activeWordsList::-webkit-scrollbar-track{
+      -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+      background-color: #F5F5F5;
+  }
+  .availableVocabulary::-webkit-scrollbar, .activeWordsList::-webkit-scrollbar{
+      width: 5px;
+      background-color: #F5F5F5;
+  }
+  .availableVocabulary::-webkit-scrollbar-thumb, .activeWordsList::-webkit-scrollbar-thumb{
+      background-color: #ffd149;
+      border: 1px solid #000000;
+  }
+}
 
 @media screen and (max-width: 800px) {
   .availableVocabulary, .activeWordsList {
@@ -376,9 +404,7 @@ body {
     text-align: center;
     /* float: left; */
   }
-  .availableVocabulary::-webkit-scrollbar, .activeWordsList::-webkit-scrollbar {
-    display: none;  // Safari and Chrome
-  }
+
 
   .game{
     height: 100%;
