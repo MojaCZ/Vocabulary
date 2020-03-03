@@ -30,17 +30,10 @@ func main() {
     http.ServeFile(w, r, "./index.html")
   })
 
- go func(){
-   err_http := http.ListenAndServe(":8081", nil)
-   if err_http != nil {
-     log.Fatalln(err_http)
-   }
+ err_http := http.ListenAndServe(":8081", nil)
+ if err_http != nil {
+   log.Fatalln(err_http)
  }
- _ := http.ListenAndServeTLS(":4431", "./.local/vocabulary_mojacz_com.crt", "./.local/vocabulary_mojacz_com.key", nil)
- if err_https != nil {
-   log.Fatalln(err_https)
- }
-
 }
 
 // func index(w http.ResponseWriter, req *http.Request) {
