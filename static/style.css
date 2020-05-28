@@ -233,6 +233,10 @@ body {
   /* box-sizing: border-box; */
   white-space: nowrap;
 }
+#connectGameWindow {
+  overflow-y: scroll;
+  height: calc(100vh - 350px);
+}
 #L1Container, #L2Container {
 
   width: fit-content;
