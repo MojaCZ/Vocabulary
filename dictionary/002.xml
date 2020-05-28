@@ -1,19 +1,37 @@
 <?xml version='1.0' encoding="UTF-8"?>
 <vocabulary>
-  <name>pravidelna slovesa</name>
+  <name>slovesa 2</name>
   <languages>
     <language1>CZ</language1>
     <language2>NJ</language2>
   </languages>
   <words>
-    <word><L1>já jsem</L1><L2>ich bin</L2></word>
-    <word><L1>ty jsi</L1><L2>du bist</L2></word>
-    <word><L1>on je</L1><L2>er ist</L2></word>
-    <word><L1>ona je</L1><L2>sie ist</L2></word>
-    <word><L1>ono je</L1><L2>es ist</L2></word>
-    <word><L1>my jsme</L1><L2>wir sind</L2></word>
-    <word><L1>vy jste</L1><L2>ihr seid</L2></word>
-    <word><L1>oni jsou</L1><L2>sie sind</L2></word>
-    <word><L1>Vy jste</L1><L2>Sie sing</L2></word>
+    <word><L1>muset</L1><L2>müssen</L2></word>
+    <word><L1>ukázat</L1><L2>zeigen</L2></word>
+    <word><L1>ptát se</L1><L2>fragen</L2></word>
+    <word><L1>začít</L1><L2>beginnen</L2></word>
+    <word><L1>končit</L1><L2>enden</L2></word>
+    <word><L1>dávat pozor</L1><L2>aufpassen</L2></word>
+    <word><L1>mít</L1><L2>sollen</L2></word>
+    <word><L1>opakovat</L1><L2>wiederholen</L2></word>
+    <word><L1>hledat</L1><L2>suchen</L2></word>
+    <word><L1>zapomenout</L1><L2>vergessen</L2></word>
+    <word><L1>opravovat</L1><L2>korrigieren</L2></word>
+    <word><L1>číst</L1><L2>lesen</L2></word>
+    <word><L1>přeložit</L1><L2>übersetzen</L2></word>
+    <word><L1>cvičit</L1><L2>üben</L2></word>
+    <word><L1>rozumět</L1><L2>verstehen</L2></word>
+    <word><L1>myslet</L1><L2>denken</L2></word>
+    <word><L1>vysvětlit</L1><L2>erklären</L2></word>
+    <word><L1>psát</L1><L2>schreiben</L2></word>
+    <word><L1>postavit</L1><L2>stellen</L2></word>
+    <word><L1>odpovídat na</L1><L2>antworten</L2></word>
+    <word><L1>vyprávět</L1><L2>erzählen</L2></word>
+    <word><L1>řešit</L1><L2>lösen</L2></word>
+    <word><L1>zpívat</L1><L2>singen</L2></word>
+    <word><L1>chtít</L1><L2>wollen</L2></word>
+    <word><L1>stehen</L1><L2>stát</L2></word>
+    <word><L1>bleiben</L1><L2>zůstat</L2></word>
+    <word><L1>hören</L1><L2>slyšet</L2></word>
   </words>
 </vocabulary>

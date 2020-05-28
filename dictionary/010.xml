@@ -1,16 +1,19 @@
 <?xml version='1.0' encoding="UTF-8"?>
 <vocabulary>
-  <name>TEST</name>
+  <name>pravidelna slovesa</name>
   <languages>
     <language1>CZ</language1>
     <language2>NJ</language2>
   </languages>
   <words>
-    <word><L1>nudný nudně</L1><L2>langweilig</L2></word>
-  	<word><L1>učit se</L1><L2>lernen</L2></word>
-  	<word><L1>sice</L1><L2>zwar</L2></word>
-  	<word><L1>lehký lehce</L1><L2>leicht</L2></word>
-  	<word><L1>líný líně</L1><L2>faul</L2></word>
-  	<word><L1>tedy tak</L1><L2>also</L2></word>
+    <word><L1>já jsem</L1><L2>ich bin</L2></word>
+    <word><L1>ty jsi</L1><L2>du bist</L2></word>
+    <word><L1>on je</L1><L2>er ist</L2></word>
+    <word><L1>ona je</L1><L2>sie ist</L2></word>
+    <word><L1>ono je</L1><L2>es ist</L2></word>
+    <word><L1>my jsme</L1><L2>wir sind</L2></word>
+    <word><L1>vy jste</L1><L2>ihr seid</L2></word>
+    <word><L1>oni jsou</L1><L2>sie sind</L2></word>
+    <word><L1>Vy jste</L1><L2>Sie sing</L2></word>
   </words>
 </vocabulary>

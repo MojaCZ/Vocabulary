@@ -1,27 +1,39 @@
 <?xml version='1.0' encoding="UTF-8"?>
 <vocabulary>
-  <name>ZVÍŘATA</name>
+  <name>častá podst. jm.</name>
   <languages>
     <language1>CZ</language1>
     <language2>NJ</language2>
   </languages>
   <words>
-    <word><L1>koza</L1><L2>e Ziege</L2></word>
-    <word><L1>kůň</L1><L2>s Pferd</L2></word>
-    <word><L1>kočka</L1><L2>e Katze</L2></word>
-    <word><L1>kotě</L1><L2>s Katzen</L2></word>
-    <word><L1>kocour</L1><L2>r Kater</L2></word>
-    <word><L1>pes</L1><L2>r Hund</L2></word>
-    <word><L1>tygr</L1><L2>r Tiger</L2></word>
-    <word><L1>lef</L1><L2>r Löwe</L2></word>
-    <word><L1>husa</L1><L2>e Gans</L2></word>
-    <word><L1>kachna</L1><L2>e Ente</L2></word>
-    <word><L1>holub</L1><L2>e Taube</L2></word>
-    <word><L1>králík</L1><L2>s Kaninchen</L2></word>
-    <word><L1>had</L1><L2>e Schlange</L2></word>
-    <word><L1>pavouk</L1><L2>e Spinne</L2></word>
-    <word><L1>papoušek</L1><L2>r Papagei</L2></word>
-    <word><L1>ZOO</L1><L2>r Tiergarten</L2></word>
-    <word><L1>opice</L1><L2>r Affe</L2></word>
+      <word><L1>rok</L1><L2>s Jahr</L2></word>
+      <word><L1>slovo</L1><L2>s Wort</L2></word>
+      <word><L1>hodina</L1><L2>e Uhr</L2></word>
+      <word><L1>ruka</L1><L2>r Hand</L2></word>
+      <word><L1>Němec</L1><L2>e Deutsche</L2></word>
+      <word><L1>Čas</L1><L2>e Zeit</L2></word>
+      <word><L1>den</L1><L2>r Tag</L2></word>
+      <word><L1>člověk</L1><L2>r Mensch</L2></word>
+      <word><L1>země</L1><L2>s Land</L2></word>
+      <word><L1>dítě</L1><L2>s Kind</L2></word>
+      <word><L1>žena</L1><L2>e Frau</L2></word>
+      <word><L1>muž</L1><L2>r Mann</L2></word>
+      <word><L1>podnik</L1><L2>r Unternehmen</L2></word>
+      <word><L1>město</L1><L2>r Stadt</L2></word>
+      <word><L1>konec</L1><L2>s Ende</L2></word>
+      <word><L1>týden</L1><L2>r Woche</L2></word>
+      <word><L1>pád</L1><L2>r Fall</L2></word>
+      <word><L1>strana</L1>r Seite<L2></L2></word>
+      <word><L1>oko</L1><L2>s Auge</L2></word>
+      <word><L1>hlava</L1><L2>r Kopf</L2></word>
+      <word><L1>obličej</L1><L2>s Gesicht</L2></word>
+      <word><L1>matka</L1><L2>e Mutter</L2></word>
+      <word><L1>otec</L1><L2>r Vater</L2></word>
+      <word><L1>dům</L1><L2>s Haus</L2></word>
+      <word><L1>pohled</L1><L2>r Blick</L2></word>
+      <word><L1>život</L1><L2>s Leben</L2></word>
+      <word><L1>dveře</L1><L2>e Tür</L2></word>
+      <word><L1>hlas</L1><L2>e Stimme</L2></word>
+      <word><L1>pán</L1><L2>r Herr</L2></word>
   </words>
 </vocabulary>

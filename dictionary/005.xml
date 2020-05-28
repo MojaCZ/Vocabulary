@@ -1,33 +1,11 @@
 <?xml version='1.0' encoding="UTF-8"?>
 <vocabulary>
-  <name>ČÍSLA</name>
+  <name></name>
   <languages>
     <language1>CZ</language1>
     <language2>NJ</language2>
   </languages>
   <words>
-    <word><L1>0</L1><L2>null</L2></word>
-    <word><L1>1</L1><L2>eins</L2></word>
-    <word><L1>2</L1><L2>zwei</L2></word>
-    <word><L1>3</L1><L2>drei</L2></word>
-    <word><L1>4</L1><L2>vier</L2></word>
-    <word><L1>5</L1><L2>fünf</L2></word>
-    <word><L1>6</L1><L2>sechs</L2></word>
-    <word><L1>7</L1><L2>sieben</L2></word>
-    <word><L1>8</L1><L2>acht</L2></word>
-    <word><L1>9</L1><L2>neun</L2></word>
-    <word><L1>10</L1><L2>zehn</L2></word>
-    <word><L1>11</L1><L2>elf</L2></word>
-    <word><L1>12</L1><L2>zwölf</L2></word>
-    <word><L1>13</L1><L2>dreizehn</L2></word>
-    <word><L1>14</L1><L2>vierzehn</L2></word>
-    <word><L1>15</L1><L2>fünfzehn</L2></word>
-    <word><L1>16</L1><L2>sechzehn</L2></word>
-    <word><L1>17</L1><L2>siebzehn</L2></word>
-    <word><L1>18</L1><L2>achtzehn</L2></word>
-    <word><L1>19</L1><L2>neunzehn</L2></word>
-    <word><L1>20</L1><L2>zwanzig</L2></word>
-    <word><L1>21</L1><L2>einundzwanzig</L2></word>
-    <word><L1>100</L1><L2>hundret</L2></word>
+      <word><L1></L1><L2></L2></word>
   </words>
 </vocabulary>

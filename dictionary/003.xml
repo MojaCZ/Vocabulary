@@ -1,23 +1,32 @@
 <?xml version='1.0' encoding="UTF-8"?>
 <vocabulary>
-  <name>POTTER</name>
+  <name>předložky</name>
   <languages>
     <language1>CZ</language1>
     <language2>NJ</language2>
   </languages>
   <words>
-    <word><L1>nato</L1><L2>darauf</L2></word>
-    <word><L1>hrdý</L1><L2>stolz</L2></word>
-    <word><L1>vše</L1><L2>ganz</L2></word>
-    <word><L1>jeho</L1><L2>sein</L2></word>
-    <word><L1>velmi</L1><L2>sehr</L2></word>
-    <word><L1>kéž</L1><L2>wäre</L2></word>
-    <word><L1>přijít</L1><L2>gekommen</L2></word>
-    <word><L1>mohl</L1><L2>könnten</L2></word>
-    <word><L1>sám</L1><L2>sich</L2></word>
-    <word><L1>protože</L1><L2>denn</L2></word>
-    <word><L1>takový</L1><L2>ein solcher</L2></word>
-    <word><L1>chtít</L1><L2>wollen</L2></word>
-    <word><L1>čaroděj</L1><L2>r Zauberer</L2></word>
+      <word><L1>z</L1><L2>aus</L2></word>
+      <word><L1>kromě, mimo</L1><L2>außer</L2></word>
+      <word><L1>u</L1><L2>bei</L2></word>
+      <word><L1>s</L1><L2>mit</L2></word>
+      <word><L1>po</L1><L2>nach</L2></word>
+      <word><L1>od</L1><L2>von</L2></word>
+      <word><L1>k</L1><L2>zu</L2></word>
+      <word><L1>skrz</L1><L2>durch</L2></word>
+      <word><L1>pro</L1><L2>für</L2></word>
+      <word><L1>proti</L1><L2>gegen</L2></word>
+      <word><L1>bez</L1><L2>ohne</L2></word>
+      <word><L1>okolo</L1><L2>um</L2></word>
+      <word><L1>od</L1><L2>seit</L2></word>
+      <word><L1>u</L1><L2>an</L2></word>
+      <word><L1>na</L1><L2>auf</L2></word>
+      <word><L1>za (místně)</L1><L2>hinter</L2></word>
+      <word><L1>v</L1><L2>in</L2></word>
+      <word><L1>vedle</L1><L2>neben</L2></word>
+      <word><L1>nad</L1><L2>über</L2></word>
+      <word><L1>pod</L1><L2>unter</L2></word>
+      <word><L1>před</L1><L2>vor</L2></word>
+      <word><L1>mezi</L1><L2>zwischen</L2></word>
   </words>
 </vocabulary>
